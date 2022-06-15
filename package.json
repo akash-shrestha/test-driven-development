@@ -1,0 +1,15 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "simple tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "akash shrestha",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
